@@ -3,18 +3,16 @@
 ##0x00 基本信息
 <table>
 <tbody>
-<tr><td><em>Year</em></td><td><em>Temperature (low)</em></td><td><em>Temperature (high)</em></td></tr>
-<tr><td>1900</td><td>-10</td><td>25</td></tr>
-<tr><td>1910</td><td>-15</td><td>30</td></tr>
-<tr><td>1920</td><td>-10</td><td>32</td></tr>
+<tr><td><b>姓名</b></td><td>黄xx</td><td><b>性别</b></td><td>男</></td></tr>
+<tr><td><b>出生日期</b></td><td>1991年09月</td><td><b>工作年限</b></td><td>2</></tr>
+<tr><td><b>毕业院校</b></td><td>湖南商学院</td><td><b>学历</b></td><td>本科</></tr>
+<tr><td><b>邮箱</b></td><td>dologengine@gmail.com</td><td><b>电话</b></td><td>13552016711</></tr>
 </tbody>
 </table>
-:-----------: | :-----------: | :-----------:| :-----------:
-姓名         | 黄xx        | 性别       | 男 |![my_pto](./images/my_pto.gng)
-出生日期     | 1991年09月    | 学历       | 本科 
-毕业院校     | 湖南商学院    |  
-邮箱     | dologengine@gmail.com| 电话       | 13552016711 
+
+
 ##0x01 专业技能
+	熟悉C/C++、熟悉Linux
 
 ##0x02 项目经历
 ##0x03 自我评价
